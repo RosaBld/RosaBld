@@ -13,7 +13,7 @@ I hope that one day, I'll be as good as you.
   |Beginner | Javascript    |
   |Beginner | HTML          |
   |Beginner | CSS           |
-  |Beginner | HTML          |
+  |Beginner | PHP           |
 
 </details>
 
