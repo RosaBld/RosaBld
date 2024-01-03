@@ -12,11 +12,11 @@ I hope that one day, I'll be as good as you.
   |--------------:|---------------|
   |Regular Use    | HTML5         |
   |Regular Use    | CSS3          |
+  |Regular Use    | SASS          |
+  |Regular Use    | Javascript    |
   |Occasional Use | PHP           |
   |Occasional Use | Maria DB      |
   |Occasional Use | PHPmyAdmin    |
-  |Regular Use    | Javascript    |
-  |Regular Use    | SASS          |
   |Regular Use    | React         |
   |Regular Use    | Vite.JS       |
   |Learning       | Typescript    |
