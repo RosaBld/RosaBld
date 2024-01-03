@@ -8,12 +8,20 @@ I hope that one day, I'll be as good as you.
 <details>
   <summary>How it's going</summary>
   
-  | Level   | Langages      |
-  |--------:|---------------|
-  |Beginner | Javascript    |
-  |Beginner | HTML          |
-  |Beginner | CSS           |
-  |Beginner | PHP           |
+  | Level         | Langages      |
+  |--------------:|---------------|
+  |Regular Use    | HTML5         |
+  |Regular Use    | CSS3          |
+  |Occasional Use | PHP           |
+  |Occasional Use | Maria DB      |
+  |Occasional Use | PHPmyAdmin    |
+  |Regular Use    | Javascript    |
+  |Regular Use    | SASS          |
+  |Regular Use    | React         |
+  |Regular Use    | Vite.JS       |
+  |Learning       | Typescript    |
+  |Learning       | Tailwind      |
+  
 
 </details>
 
